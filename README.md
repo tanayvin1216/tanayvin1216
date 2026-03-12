@@ -54,9 +54,12 @@ Student at the **North Carolina School of Science and Mathematics** passionate a
 
 **Computational Science Researcher** · Duke Pratt School of Engineering · *Sept 2025 – Present*
 
+**Math & Computer Science Scientific Editor** · Broad Street Scientific Journal · *October 2025 – Present*
+
 **Programmer** · FTC Team 8569 · *Sept 2025 – Present*
 
 **ML Research Intern** · UNC Charlotte · *May 2024 – April 2025*
+
 
 
 ---
