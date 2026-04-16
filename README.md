@@ -67,3 +67,5 @@ Student at the **North Carolina School of Science and Mathematics** passionate a
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-Vinaykya27T%40ncssm.edu-blue?style=flat-square)](mailto:Vinaykya27T@ncssm.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanay%20Vinaykya-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanay-vinaykya-093a1b2bb)
+[![Website](https://img.shields.io/badge/Website-tanayvin.com-blue?style=flat-square)](https://tanayvin.com)
+
