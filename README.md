@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Tanay
+## Hey, I'm Tanay
 
 Student at the **North Carolina School of Science and Mathematics** passionate about building real-world projects at the intersection of AI, computational research, and meaningful problem-solving.
 
