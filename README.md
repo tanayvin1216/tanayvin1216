@@ -56,7 +56,7 @@ Student at the **North Carolina School of Science and Mathematics** passionate a
 
 **Math & Computer Science Scientific Editor** · Broad Street Scientific Journal · *October 2025 – Present*
 
-**Programmer** · FTC Team 8569 · *Sept 2025 – Present*
+**Programmer** · FTC Team 8569 and FTC Team 22377 · *Sept 2025 – Present*
 
 **ML Research Intern** · UNC Charlotte · *May 2024 – April 2025*
 
